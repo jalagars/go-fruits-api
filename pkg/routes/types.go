@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"github.com/jalagars/go-fruits-api/pkg/db"
+	"github.com/kameshsampath/go-fruits-api/pkg/db"
 )
 
 //Endpoints is the marker interface for defining routes
